@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-yfinance
+yf
 plotly
 statsmodels
 pmdarima
